@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Drum Pad",
+  "description": "A responsive 3x3 interactive drum pad and beat maker featuring zero-latency Web Audio synthesis, visual feedback, beat recording, 'Save As' genre classification, and a saved beats library with persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
